@@ -3,7 +3,7 @@ make-activity
 
 This is an exercise of https://github.com/STAT545-UBC/make-activity.
 
-In this submission, I chosed to explore start and end character association. 
+In this submission, I explored start and end character association. 
 
 I have added:
 
