@@ -1,6 +1,6 @@
 ---
-title: "English Word lengths"
-author: "Jenny Bryan"
+title: "English Word lengths, associations"
+author: "Jenny Bryan, Gary, Zhu"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
