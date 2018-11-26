@@ -20,3 +20,7 @@ The most frequent word length is `r with(hist_dat, Length[which.max(Freq)])`.
 Here is a histogram of word lengths.
 
 ![*Fig. 1* A histogram of English word lengths](histogram.png)
+
+Here is a histogram of top associations between the start and the end characters.
+
+![*Fig. 2* A histogram of start and end characters](start_end.png)

@@ -1,6 +1,11 @@
-# English Word lengths
-Jenny Bryan  
-`r format(Sys.time(), '%d %B, %Y')`  
+---
+title: "English Word lengths"
+author: "Jenny Bryan"
+date: "26 November, 2018"
+output:
+  html_document:
+    keep_md: yes
+---
 
 
 
@@ -13,3 +18,7 @@ The most frequent word length is 9.
 Here is a histogram of word lengths.
 
 ![*Fig. 1* A histogram of English word lengths](histogram.png)
+
+Here is a histogram of top associations between the start and the end characters.
+
+![*Fig. 2* A histogram of start and end characters](start_end.png)
