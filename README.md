@@ -14,4 +14,8 @@ I have changed:
 * `report.md` include an image called start_end.png.
 * `Makefile` integrate start_end.R into the pipeline.
 
+Wow factor: a flow chart of this pipeline
+
+![flow chart](https://raw.githubusercontent.com/STAT545-UBC-students/hw09-garyzhubc/master/diagram.png)
+
 Please see http://stat545.com/Classroom/assignments/hw09/hw09.html for assignment requirements and http://stat545.com/Classroom/assignments/peer-review.html for peer-review instructions.
