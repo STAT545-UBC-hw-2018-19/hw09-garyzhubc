@@ -3,6 +3,8 @@ make-activity
 
 This is an exercise of https://github.com/STAT545-UBC/make-activity.
 
+You'll need packages such as ggplot2 stringr to run this pipeline.
+
 In this submission, I explored start and end character association. 
 
 I have added:
